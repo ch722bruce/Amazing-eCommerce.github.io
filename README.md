@@ -96,7 +96,6 @@ npm run server
 
 
 ## Preview
-### Version 1
 [Thumbnail Page] 
 <img width="1270" alt="thumbnail" src="https://  ">
 
