@@ -19,7 +19,7 @@ Instructor: Shivakumar Mathapathi
 ### Author
 
 Created By:
-[Yonghua Fu](https://   /)  &
+[Yonghua Fu](https://github.com/Yonghua22)  &
 [Chuanzhao Huang](https://chuanzhaohuang.github.io/) & 
 [Mianyun Ni](https://github.com/Mianyunni)  &
 [Wanchun Wu](https://   /) 
