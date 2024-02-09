@@ -16,7 +16,7 @@ Northeastern University San Jose
 
 Instructor: Shivakumar Mathapathi
 
-### Author
+### Authors
 
 Created By:
 [Yonghua Fu](https://github.com/Yonghua22)  &
@@ -97,37 +97,37 @@ npm run server
 
 ## Preview
 ### Version 1
-[Thumbnail Page] V1
+[Thumbnail Page] 
 <img width="1270" alt="thumbnail" src="https://  ">
 
-[Login Page] V1
+[Login Page] 
 <img width="1270" alt="signIn" src="https://  " >
 
-[SignUp Page] V1
+[SignUp Page] 
 <img width="1270" alt="signUp" src="  " >
 
-[Home Page] V1
+[Home Page] 
 <img width="1270" alt="home" src="https://   " >
 
-[Product List Page] V1
+[Product List Page] 
 <img width="1270" alt="productList" src="  ">
 
-[Product Detail Page] V1
+[Product Detail Page] 
 <img width="1270" alt="productDetail" src="https://   ">
 
-[Subscribe Page] V1
+[Subscribe Page] 
 <img width="1270" alt="subscribe" src="https://  ">
 
-[Comment Page] V1
+[Comment Page] 
 <img width="1270" alt="comment" src="   ">
 
-[Check Out Page] V1
+[Check Out Page] 
 <img width="1270" alt="checkout" src="https://  ">
 
 
 ## Demonstration
 
-[Slides V1](https://  /)
+[Slides](https://  /)
 
 
 ## Copyright
