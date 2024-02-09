@@ -44,7 +44,7 @@ Users can effortlessly add or remove products from their shopping cart, providin
 Offering a
 subscription option for regular deliveries of favorite products, Amazing ensures that customers always have access to fresh and preferred items without the need to reorder manually.
 
-5. Comments and Feedback:
+4. Comments and Feedback:
 After purchasing, customers are encouraged to leave comments on the product pages. This feature fosters a community of informed buyers and allows for continuous improvement of products and services based on user feedback.
 
 5.Advanced Product Search:
