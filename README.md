@@ -48,7 +48,7 @@ subscription option for regular deliveries of favorite products, Amazing ensures
 4. Comments and Feedback:
 After purchasing, customers are encouraged to leave comments on the product pages. This feature fosters a community of informed buyers and allows for continuous improvement of products and services based on user feedback.
 
-5.Advanced Product Search:
+5. Advanced Product Search:
 With a powerful search functionality, customers can quickly find specific products or categories, enhancing the efficiency of the shopping experience.
 
 #### For Sellers:
