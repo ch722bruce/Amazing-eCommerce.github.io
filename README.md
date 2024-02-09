@@ -21,7 +21,7 @@ Instructor: Shivakumar Mathapathi
 Created By:
 [Yonghua Fu](https://   /)  &
 [Chuanzhao Huang](https://chuanzhaohuang.github.io/) & 
-[Mianyun Ni](https://   /)  &
+[Mianyun Ni](https://github.com/Mianyunni)  &
 [Wanchun Wu](https://   /) 
 
 
