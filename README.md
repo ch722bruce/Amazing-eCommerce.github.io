@@ -22,7 +22,7 @@ Created By:
 [Yonghua Fu](https://github.com/Yonghua22)  &
 [Chuanzhao Huang](https://chuanzhaohuang.github.io/) & 
 [Mianyun Ni](https://github.com/Mianyunni)  &
-[Wanchun Wu](https://   /) 
+[Wanchun Wu](https://github.com/Yuki2xuer) 
 
 
 Lastest Release: [Homepage](https://   /)  
