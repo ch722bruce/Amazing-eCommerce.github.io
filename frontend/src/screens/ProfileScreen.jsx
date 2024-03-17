@@ -1,4 +1,3 @@
-
 import React, { useEffect, useState } from 'react';
 import { Table, Form, Button, Row, Col } from 'react-bootstrap';
 import { LinkContainer } from 'react-router-bootstrap';
@@ -38,7 +37,9 @@ const ProfileScreen = () => {
     } else {
       try {
         const res = await updateProfile({
-          _id: userInfo._id,
+          // NOTE: here we don't need the _id in the request payload as this is
+          // not used in our controller.
+          // _id: userInfo._id,
           name,
           email,
           password,
@@ -60,7 +61,7 @@ const ProfileScreen = () => {
           <Form.Group className='my-2' controlId='name'>
             <Form.Label>Name</Form.Label>
             <Form.Control
-              type='name'
+              type='text'
               placeholder='Enter name'
               value={name}
               onChange={(e) => setName(e.target.value)}
@@ -112,7 +113,7 @@ const ProfileScreen = () => {
             {error?.data?.message || error.error}
           </Message>
         ) : (
-          <Table striped table hover responsive className='table-sm'>
+          <Table striped hover responsive className='table-sm'>
             <thead>
               <tr>
                 <th>ID</th>
@@ -126,7 +127,7 @@ const ProfileScreen = () => {
             <tbody>
               {orders.map((order) => (
                 <tr key={order._id}>
-                  <tD>{order._id}</tD>
+                  <td>{order._id}</td>
                   <td>{order.createdAt.substring(0, 10)}</td>
                   <td>{order.totalPrice}</td>
                   <td>
@@ -161,4 +162,3 @@ const ProfileScreen = () => {
 };
 
 export default ProfileScreen;
- 

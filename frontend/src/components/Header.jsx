@@ -1,4 +1,3 @@
-
 import { Navbar, Nav, Container, NavDropdown, Badge } from 'react-bootstrap';
 import { FaShoppingCart, FaUser } from 'react-icons/fa';
 import { LinkContainer } from 'react-router-bootstrap';
@@ -8,6 +7,7 @@ import { useLogoutMutation } from '../slices/usersApiSlice';
 import { logout } from '../slices/authSlice';
 import SearchBox from './SearchBox';
 import logo from '../assets/logo.png';
+import { resetCart } from '../slices/cartSlice';
 
 const Header = () => {
   const { cartItems } = useSelector((state) => state.cart);
@@ -22,6 +22,9 @@ const Header = () => {
     try {
       await logoutApiCall().unwrap();
       dispatch(logout());
+      // NOTE: here we need to reset cart state for when a user logs out so the next
+      // user doesn't inherit the previous users cart and shipping
+      dispatch(resetCart());
       navigate('/login');
     } catch (err) {
       console.error(err);
@@ -34,8 +37,8 @@ const Header = () => {
         <Container>
           <LinkContainer to='/'>
             <Navbar.Brand>
-              <img src={logo} alt='ProShop'  style={{ width: '50px', height: 'auto' }}/>
-               Amazing
+              <img src={logo} alt='Amazing' style={{ width: '50px', height: 'auto'}}/>
+              Amazing
             </Navbar.Brand>
           </LinkContainer>
           <Navbar.Toggle aria-controls='basic-navbar-nav' />
