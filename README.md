@@ -102,11 +102,16 @@ npm install
 
 ## Run
 ```bash
-# Run frontend (:3000) & backend (:5000)
+#  Run frontend (:3000) & backend (:5000)
 npm run dev
 
-# Run backend only
+OR
+
+#  Run backend separatedly  
 npm run server
+#  Run frontend separatedly
+cd frontend
+npm start
 ```
 
 
