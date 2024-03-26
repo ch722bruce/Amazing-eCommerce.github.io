@@ -6,7 +6,7 @@ Amazing is an innovative eCommerce platform designed to transform the online sho
 
 ### Project: Amazing E-Commerce
 
-#### [Amazing E-Commerce 1](Link: https://   /)
+#### [Amazing E-Commerce 1](Link: https://amazing-ecommerce.onrender.com/)
 #### [Amazing E-Commerce 2](Link: https:/    /)
 
 Based on JavaScript, CSS, HTML, and Bootstrap v5.3.2, Express Node, Node JS, MongoDB@7, React, Vite.
@@ -25,7 +25,7 @@ Created By:
 [Wanchun Wu](https://github.com/Yuki2xuer) 
 
 
-Lastest Release: [Homepage](https://   /)  
+Lastest Release: [Homepage](https://amazing-ecommerce.onrender.com/)  
 
 ## Project Objective
 
