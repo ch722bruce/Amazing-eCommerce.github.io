@@ -123,32 +123,40 @@ npm start
 
 ## Preview
 [Thumbnail Page] 
-<img width="1270" alt="thumbnail" src="https://  ">
+<img width="1270" alt="thumbnail" src="https://github.com/ch722bruce/Amazing-eCommerce.github.io/assets/122564637/11d4b520-e396-4c6a-a949-a792bd1cefe0">
 
 [Login Page] 
-<img width="1270" alt="signIn" src="https://  " >
+<img width="1270" alt="signIn" src="https://github.com/ch722bruce/Amazing-eCommerce.github.io/assets/122564637/ba7fac12-c65b-490c-ae3e-ee479c02915c" >
 
 [SignUp Page] 
-<img width="1270" alt="signUp" src="  " >
+<img width="1270" alt="signUp" src="https://github.com/ch722bruce/Amazing-eCommerce.github.io/assets/122564637/7051aee3-6dd5-4c28-8ad4-8b7cd8cfca61" >
 
 [Home Page] 
-<img width="1270" alt="home" src="https://   " >
+<img width="1270" alt="home" src="https://github.com/ch722bruce/Amazing-eCommerce.github.io/assets/122564637/9cdc3c77-d0ee-42ff-b6f5-49cbcbfc4a61" >
 
 [Product List Page] 
-<img width="1270" alt="productList" src="  ">
+<img width="1270" alt="productList" src="https://github.com/ch722bruce/Amazing-eCommerce.github.io/assets/122564637/587b449f-a8fe-4266-88a3-faa1c75f793c">
 
 [Product Detail Page] 
-<img width="1270" alt="productDetail" src="https://   ">
+<img width="1270" alt="productDetail" src="https://github.com/ch722bruce/Amazing-eCommerce.github.io/assets/122564637/9e5153c2-de17-4f10-a65f-693bb1722c1e">
 
 [Subscribe Page] 
 <img width="1270" alt="subscribe" src="https://  ">
 
-[Comment Page] 
-<img width="1270" alt="comment" src="   ">
+[Rating & Review Page] 
+<img width="1270" alt="Rating and Review" src="https://github.com/ch722bruce/Amazing-eCommerce.github.io/assets/122564637/a5d20f9e-5425-41f8-98df-ca7f8ecb8abd">
 
-[Check Out Page] 
-<img width="1270" alt="checkout" src="https://  ">
+[User Profile Page] 
+<img width="1270" alt="Profile" src="https://github.com/ch722bruce/Amazing-eCommerce.github.io/assets/122564637/0631dd03-2587-4399-b02f-9f8df6fdfe1d">
 
+[Carts Page] 
+<img width="1270" alt="Carts" src="https://github.com/ch722bruce/Amazing-eCommerce.github.io/assets/122564637/2aa12174-4d92-4b44-babf-eb11b953794e">
+
+[Shipping Info Page] 
+<img width="1270" alt="Shipping" src="https://github.com/ch722bruce/Amazing-eCommerce.github.io/assets/122564637/7b3f2386-ac37-444c-b3ed-a7377c00aaf2">
+
+[Payment Method Page] 
+<img width="1270" alt="Paymeng Method" src="https://github.com/ch722bruce/Amazing-eCommerce.github.io/assets/122564637/96b37b16-8fe4-4089-b569-41fe49ec356d">
 
 ## Demonstration
 
