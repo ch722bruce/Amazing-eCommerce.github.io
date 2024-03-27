@@ -118,7 +118,7 @@ npm start
 ## Color Palette and Fonts Choice
 ### Color Palette 
 
-<img width="1270" alt="color palette" src="https://  ">
+<img width="1270" alt="color palette" src="https://github.com/ch722bruce/Amazing-eCommerce.github.io/assets/122564637/8efee08b-2158-423f-991c-895238fa040d">
 
 
 ## Preview
