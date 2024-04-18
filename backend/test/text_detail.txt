@@ -1,14 +1,14 @@
 1) User Experience Testing:
-Buyer Perspective: Evaluate register/sign-in/sign-out and profile creation/edit function, product search, place order, rating, comments.
-Admins Perspective: verify new product info posted and update inventory.
+- Buyer Perspective: Evaluate register/sign-in/sign-out and profile creation/edit function, product search, place order, rating, comments.
+- Admins Perspective: verify new product info posted and update inventory.
 
 
 2) Front-end/Website Responsiveness Testing:
-Crow-Browser and Mobile Testing: Ensure compatibility with different browsers and mobile devices of all screen sizes. And verify readability and functionality on smaller screens.
-Resolution Testing: Ensure adaptability to different screen resolutions. And verify content accessibility and visual appeal.
+- Crow-Browser and Mobile Testing: Ensure compatibility with different browsers and mobile devices of all screen sizes. And verify readability and functionality on smaller screens.
+- Resolution Testing: Ensure adaptability to different screen resolutions. And verify content accessibility and visual appeal.
 
 
 3) Database Testing :
-Tested different requests for the database using Postman, including but not limited to actions such as signup (POST), updating user information (PUT), retrieving a user by ID (GET), and more. 
-Please consult the screenshot and the JSON file located in the test folder: https://github.com/ch722bruce/Amazing-eCommerce.github.io/tree/main/backend/test
+- Tested different requests for the database using Postman, including but not limited to actions such as signup (POST), updating user information (PUT), retrieving a user by ID (GET), and more. 
+- Please consult the screenshot and the JSON file located in the test folder: https://github.com/ch722bruce/Amazing-eCommerce.github.io/tree/main/backend/test
 
