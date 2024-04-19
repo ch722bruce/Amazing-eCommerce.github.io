@@ -51,6 +51,10 @@ After purchasing, customers are encouraged to leave comments on the product page
 5. Advanced Product Search:
 With a powerful search functionality, customers can quickly find specific products or categories, enhancing the efficiency of the shopping experience.
 
+6. AI Chatbox: 
+Enhanced with powerful AI technology from Chatbase.co, this feature provides real-time customer support directly on the website. Users can ask questions about products, orders, or their accounts, and receive immediate, precise answers. 
+
+
 #### For Sellers:
 1. Product Listing Management:
 Sellers have the ability to create, edit, and manage their product listings, ensuring that their offerings are up-to-date and accurately represented.
