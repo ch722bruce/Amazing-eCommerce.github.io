@@ -41,17 +41,13 @@ Customers can create a personal account to track orders, manage subscriptions, a
 2. Shopping Cart Management:
 Users can effortlessly add or remove products from their shopping cart, providing flexibility and convenience in finalizing their purchases.
 
-3. Subscription Orders:
-Offering a
-subscription option for regular deliveries of favorite products, Amazing ensures that customers always have access to fresh and preferred items without the need to reorder manually.
-
-4. Comments and Feedback:
+3. Comments and Feedback:
 After purchasing, customers are encouraged to leave comments on the product pages. This feature fosters a community of informed buyers and allows for continuous improvement of products and services based on user feedback.
 
-5. Advanced Product Search:
+4. Advanced Product Search:
 With a powerful search functionality, customers can quickly find specific products or categories, enhancing the efficiency of the shopping experience.
 
-6. AI Chatbox: 
+5. AI Chatbox: 
 Enhanced with powerful AI technology from Chatbase.co, this feature provides real-time customer support directly on the website. Users can ask questions about products, orders, or their accounts, and receive immediate, precise answers. 
 
 
@@ -72,6 +68,8 @@ Detailed oversight of order processing, from placement to delivery, including th
 3. Analytics and Reporting:
 Access to detailed analytics and reports on sales, customer behavior, and inventory, providing valuable insights for strategic decision-making and platform enhancement.
 
+## FUll Stack Workload
+<img width="1270" alt="thumbnail" src="https://github.com/ch722bruce/Amazing-eCommerce.github.io/assets/122564637/0fe46fea-ad5e-4ddd-b3f5-7ce004e7f98c">
 
 ## Usage
 
