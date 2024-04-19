@@ -68,7 +68,7 @@ Detailed oversight of order processing, from placement to delivery, including th
 3. Analytics and Reporting:
 Access to detailed analytics and reports on sales, customer behavior, and inventory, providing valuable insights for strategic decision-making and platform enhancement.
 
-## FUll Stack Workload
+## Full Stack Workload
 <img width="1270" alt="thumbnail" src="https://github.com/ch722bruce/Amazing-eCommerce.github.io/assets/122564637/0fe46fea-ad5e-4ddd-b3f5-7ce004e7f98c">
 
 ## Usage
